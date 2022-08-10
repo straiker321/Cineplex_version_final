@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520510654511",
+    "firebase_url": "https://cineplex-1e47e-default-rtdb.firebaseio.com",
+    "project_id": "cineplex-1e47e",
+    "storage_bucket": "cineplex-1e47e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520510654511:android:0dc82d04f9abf4b8239eda",
+        "android_client_info": {
+          "package_name": "com.example.cineplex_version_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520510654511-rrs2u146tipuip9fegirbkis2d5u4l5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXkqMA1VBPXE7Ts1QyEvCMt4pYyOVHrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520510654511-rrs2u146tipuip9fegirbkis2d5u4l5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Cineplex</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="btn_detalles">Ver detalles</string>
+    <string name="btn_comprar">Comprar</string>
+    <string name="menu_cines">CINES</string>
+    <string name="menu_peliculas">PELICULAS</string>
+    <string name="menu_home">INICIO</string>
+    <string name="ver_detalles">ver detalles</string>
+    <string name="VER_DETALLES">VER DETALLES</string>
+    <string name="todo">TODO</string>
+    <string name="titulo">titulo</string>
+    <string name="descripcion">descripcion</string>
+    <string name="fecha">fecha</string>
+    <string name="genero">genero</string>
+    <string name="duracion">duracion</string>
+    <string name="Comprar">Comprar</string>
+    <string name="menu_dulceria">DULCERIA</string>
+    <string name="menu_contact">CONTACT</string>
+    <string name="menu_promocion">PROMOCIONES</string>
+    <string name="menu_socio">SOCIO</string>
+
+    <string-array name="Selecionar">
+        <item>Selecionar</item>
+        <item>CP Alcazar</item>
+        <item>CP Arequipa Mall Plaza</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.cineplex_version_final.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <activity
+        android:id="@+id/nav_cines"
+        android:name="com.example.cineplex_version_final.ui.cines.Cines_activity"
+        android:label="@string/menu_cines"
+        tools:layout="@layout/activity_cines" />
+
+    <activity
+        android:id="@+id/nav_peliculas"
+        android:name="com.example.cineplex_version_final.ui.peliculas.PeliculasActivity"
+        android:label="@string/menu_peliculas"
+        tools:layout="@layout/activity_peliculas" />
+
+
+    <activity
+        android:id="@+id/nav_dulceria"
+        android:name="com.example.cineplex_version_final.ui.Dulceria.Dulceria_activity"
+        android:label="@string/menu_dulceria"
+        tools:layout="@layout/activity_dulceria" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/nav_contact"-->
+<!--        android:name="com.example.cineplex_prueba.ui.fragments.ContactFragment"-->
+<!--        android:label="@string/menu_contact"-->
+<!--        tools:layout="@layout/fragment_contact" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/nav_promocion"-->
+<!--        android:name="com.example.cineplex_prueba.ui.fragments.PromocionFragment"-->
+<!--        android:label="@string/menu_promocion"-->
+<!--        tools:layout="@layout/fragment_promocion" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/nav_socio"-->
+<!--        android:name="com.example.cineplex_prueba.ui.fragments.SocioFragment"-->
+<!--        android:label="@string/menu_socio"-->
+<!--        tools:layout="@layout/fragment_socio" />-->
+</navigation>
