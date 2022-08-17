@@ -20,48 +20,6 @@ class CinesProvider {
 
 
             ),
-            Cines(
-                "CP Alcazar",
-                "Av.Santa Cruz 814-816",
-                "2D,REGULAR,3D",
-
-            ),
-            Cines(
-                "CP Arequipa Mall Plaza",
-                "Av.Ejercito 793 Cayma",
-                "2D,3D,REGULAR",
-
-            ),
-            Cines(
-                "CP Arequipa Mall Plaza",
-                "Av.Ejercito 793 Cayma",
-                "2D,3D,REGULAR",
-
-            ),
-            Cines(
-                "CP Arequipa Mall Plaza",
-                "Av.Ejercito 793 Cayma",
-                "2D,3D,REGULAR",
-
-            ),
-            Cines(
-                "CP Arequipa Mall Plaza",
-                "Av.Ejercito 793 Cayma",
-                "2D,3D,REGULAR",
-
-            ),
-            Cines(
-                "CP Arequipa Mall Plaza",
-                "Av.Ejercito 793 Cayma",
-                "2D,3D,REGULAR",
-
-            ),
-            Cines(
-                "CP Arequipa Mall Plaza",
-                "Av.Ejercito 793 Cayma",
-                "2D,3D,REGULAR",
-
-            ),
         )
     }
 }

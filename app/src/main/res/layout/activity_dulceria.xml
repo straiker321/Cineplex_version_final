@@ -48,7 +48,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Escoge un Cineplanet para comprar productos de nuestra dulcería"
+        android:text="Escoge un Cineplex para comprar productos de nuestra dulcería"
         android:textAlignment="center"
         android:textColor="@color/color_de_letras"
         android:textSize="16sp"

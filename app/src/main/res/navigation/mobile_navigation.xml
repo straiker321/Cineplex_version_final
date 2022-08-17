@@ -36,15 +36,15 @@
 <!--        android:label="@string/menu_contact"-->
 <!--        tools:layout="@layout/fragment_contact" />-->
 
-<!--    <fragment-->
-<!--        android:id="@+id/nav_promocion"-->
-<!--        android:name="com.example.cineplex_prueba.ui.fragments.PromocionFragment"-->
-<!--        android:label="@string/menu_promocion"-->
-<!--        tools:layout="@layout/fragment_promocion" />-->
+    <fragment
+        android:id="@+id/nav_promocion"
+        android:name="com.example.cineplex_version_final.ui.fragment.PromocionFragment"
+        android:label="@string/menu_promocion"
+        tools:layout="@layout/fragment_promocion" />
 
-<!--    <fragment-->
-<!--        android:id="@+id/nav_socio"-->
-<!--        android:name="com.example.cineplex_prueba.ui.fragments.SocioFragment"-->
-<!--        android:label="@string/menu_socio"-->
-<!--        tools:layout="@layout/fragment_socio" />-->
+    <fragment
+        android:id="@+id/nav_socio"
+        android:name="com.example.cineplex_version_final.ui.fragment.SocioFragment"
+        android:label="@string/menu_socio"
+        tools:layout="@layout/fragment_socio" />
 </navigation>
